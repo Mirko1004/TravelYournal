@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Travel journal</string>
+    <string name="title_activity_add_new_location">Map</string>
+    <string name="title_activity_all_locations_map">Map</string>
+
+
+    <string name="loc_message">Type in your location</string>
+    <string name="search">Search</string>
+    <string name="add_location">Add new location</string>
+    <string name="view_visited">Visited locations</string>
+    <string name="change_location">Change location</string>
+    <string name="cancel">Cancel</string>
+    <string name="date">Date</string>
+    <string name="note">Your note</string>
+    <string name="pick_image">Pick image</string>
+    <string name="save_location">Save location</string>
+    <string name="location_list">My locations</string>
+    <string name="title_activity_locations_list">Visited locations</string>
+    <string name="gallery">Gallery</string>
+    <string name="video">Video</string>
+    <string name="view_all_visited">View all visited locations</string>
+
+    <string name="empty_list_label">No locations added yet.</string>
+    <string name="empty_list_description">Press the + button to add a new location to your journal.</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="title_activity_main">Travel journal</string>
+</resources>
